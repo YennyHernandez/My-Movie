@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="titulo">Titulo</string>
+    <string name="resalase_date">Relase date:</string>
+    <string name="date">30-nov-2020</string>
+    <string name="vote_average">Vote average</string>
+    <string name="votos" />
+    <string name="votos_a">0</string>
+</resources>
